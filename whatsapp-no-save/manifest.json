@@ -1,0 +1,20 @@
+{
+    "name": "Direct WhatsApp Chat",
+    "short_name": "Direct Chat",
+    "description": "Direct chat WhatsApp without saving phone number",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#F9FCFF",
+    "theme_color": "#FBFADA",
+    "icons": [{
+            "src": "img/icon_direct_chat_wa_192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icon_direct_chat_wa.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
